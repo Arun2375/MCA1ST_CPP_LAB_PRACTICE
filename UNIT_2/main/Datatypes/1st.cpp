@@ -2,9 +2,9 @@
 using namespace std;
 int main(){
     int a = 4;                  // Integer type
-    float b = 5.12;             // Floating number
+    float b = 5.12;             // Floating number 4 bytes
     char c = 'A';               // Character type
-    double d = 13.12334;        // Double type using 16 bits of memory
+    double d = 13.12334;        // Double type using 8 bits of memory
     bool e = true;             //Boolean type stores only true or false
     string s = "Hello World";     //it stores statements 
     
